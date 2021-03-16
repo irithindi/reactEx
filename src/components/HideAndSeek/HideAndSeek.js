@@ -14,6 +14,7 @@ class ShowBox extends react.Component {
            return {box: !prevState.box}
            console.log(this.state);
         })
+        
     }
 
     render() {
