@@ -1,0 +1,28 @@
+.quizContainer{
+    width: 300px;
+    height: 300px;
+    border: 3px #333 solid;
+}
+
+
+.title{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+ font-size: 20px;
+ margin-top: 10px;
+}
+
+
+.Q1{
+    width: 300px;
+    height: 100px; 
+    background-color: #333; 
+    position: absolute;
+    z-index: 10;
+}
+
+.QTitle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    font-size: 10px;
+    margin-top: 10px;
+
+}
